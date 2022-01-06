@@ -12,7 +12,7 @@
 
     <properties>
         <author>2LStudios</author>
-        <mainClass>dev._2lstudios.milkshake-bukkit.MilkshakeBukkit</mainClass>
+        <mainClass>dev._2lstudios.milkshakebukkit.MilkshakeBukkit</mainClass>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
