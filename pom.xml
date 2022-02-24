@@ -7,7 +7,7 @@
 
     <name>Milkshake-Bukkit</name>
     <description>MongoDB ORM for Bukkit</description>
-    <version>0.1-BETA</version>
+    <version>0.2-BETA</version>
     <url>https://github.com/2lstudios-mc/milkshake-bukkit</url>
 
     <properties>
