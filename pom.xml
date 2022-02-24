@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.dotphin</groupId>
             <artifactId>milkshake-orm</artifactId>
-            <version>0.1-BETA</version>
+            <version>0.2-BETA</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
