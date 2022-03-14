@@ -7,7 +7,7 @@
 
     <name>Milkshake-Bukkit</name>
     <description>MongoDB ORM for Bukkit</description>
-    <version>0.2-BETA</version>
+    <version>0.3-BETA</version>
     <url>https://github.com/2lstudios-mc/milkshake-bukkit</url>
 
     <properties>
@@ -31,7 +31,7 @@
         <dependency>
             <groupId>com.dotphin</groupId>
             <artifactId>milkshake-orm</artifactId>
-            <version>0.2-BETA</version>
+            <version>${version}</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
