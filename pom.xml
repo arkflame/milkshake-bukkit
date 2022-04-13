@@ -6,8 +6,8 @@
     <packaging>jar</packaging>
 
     <name>Milkshake-Bukkit</name>
-    <description>MongoDB ORM for Bukkit</description>
-    <version>0.5-BETA</version>
+    <description>MongoDB ODM for Bukkit</description>
+    <version>1.0</version>
     <url>https://github.com/2lstudios-mc/milkshake-bukkit</url>
 
     <properties>
@@ -30,7 +30,7 @@
     <dependencies>
         <dependency>
             <groupId>com.dotphin</groupId>
-            <artifactId>milkshake-orm</artifactId>
+            <artifactId>milkshake-odm</artifactId>
             <version>${version}</version>
             <scope>compile</scope>
         </dependency>
