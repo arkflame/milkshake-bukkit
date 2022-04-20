@@ -1,3 +1,3 @@
-# Bukkit Boilerplate
+# Milkshake Bukkit
 
-Sample project to create Plugins for Bukkit.
+This is just a wrapper for [MilkshakeODM](https://github.com/dotphin/milkshake-orm/)
